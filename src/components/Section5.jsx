@@ -83,7 +83,7 @@ const Section5 = () => {
               mt: 5,
             }}
           >
-            <Box sx={{ width: { xs: "300px", sm: "583px", lg: "583px" ,xl:"800px"} }}>
+            <Box sx={{ width: { xs: "300px", sm: "583px", lg: "583px" } }}>
               <img
                 src="https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/b72fb2c522a95ccfbc42846e/bfa58c15-fd77-f52e-94e7-443d7f3d5aec.jpg"
                 alt="img"
